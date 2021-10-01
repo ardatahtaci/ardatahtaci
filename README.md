@@ -2,8 +2,8 @@
 - 👀 I’m interested in C#, SQL, Web development and Game development
 - 🌱 I’m currently learning ASP.NET and SQL
 - 📫 How to reach me?
-Mail: ardam1425@gmail.com
-Instagram: @ardatdev
+Mail: arda@artadosearch.com or
+Twitter: @ardatdev
 
 <!---
 ardatahtaci/ardatahtaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
