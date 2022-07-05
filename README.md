@@ -1,30 +1,121 @@
-<div align="center">
-<img src="https://www.artadosearch.com/polisartalio2.png"/>
-<h3>Contact Information</h3>
-<a href="arda@artadosearch.com" target"blank_">Mail</a>
-<a href="https://github.com/ardatdev" target"blank_">Github</a>
+# ardatdev
+## Stats
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ardatdev&theme=apprentice&hide_border=true&count_private=true&include_all_commits=true&custom_title=Arda's+GitHub+Stats"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+      <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=ardatdev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=262626&stroke=616BBC00&sideLabels=BCBCBC&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardatdev&theme=apprentice&langs_count=6&hide_border=true&hide_title=true" />
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img width="49%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ardatdev&theme=apprentice&no-frame=true&column=3" />
+    </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+      <img width="98%" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=ardatdev&bg_color=262626&color=BCBCBC&line=8787AF&point=6C6C6C&area_color=5F5F87&area=true&hide_border=true" />
+    </a>
 </div>
 
+## Languages I Know
+* C#
+* C++
+* CSS3
+* HTML5
+* Markdown
+* Python
+* V
+* Javascript
+* SQL
 
-<div align="center">
-<h3>Programming Languages</h3>
-<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+## Operating Systems I Used
+* Windows
+  * Windows 98
+  * Windows ME
+  * Windows XP
+  * Windows Vista
+  * Windows 7
+  * Windows 8
+  * Windows 8.1
+  * Windows 10
 
-<img src="https://img.shields.io/badge/CSharp%20-111111.svg?&style=for-the-badge&logo=CSharp&logoColor=white">
-<img src="https://img.shields.io/badge/Asp.net%20-111111.svg?&style=for-the-badge&logo=ASP.NET&logoColor=white">
-<img src="https://img.shields.io/badge/SQL%20-111111.svg?&style=for-the-badge&logo=SQL&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/C%20-111111.svg?&style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++%20-111111.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white">
-<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
-</div>
+* Linux
+  * Debian
+    * Debian
+    * Pardus
+    * Ubuntu
+      * Pop_OS!
+  * Arch
+    * Arch
+    * Manjaro
+    * Mabox Linux
+  * Red Hat
+    * Fedora
+    * OpenSUSE
+  * Gentoo
+    * Pardus
+  * LFS
+    * Android
+    * Pisi Linux
+    * Milis Linux
 
+* BSD
+    * FreeBSD
+    * OpenBSD
+    
+* Other
+  * ToaruOS
+  * MikeOS
 
-<div align="center">
-<h3>Github Stats</h3>
-  <div><img src="https://komarev.com/ghpvc/?username=ardatdev&&label=PROFILE+VIEWS&color=grey"/></div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ardatdev&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardatdev&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
-</a>
+I'm currently using **Mabox Linux**, **Windows 10** and **Android**.<br/>
+
+## Window Managers/Desktop Environments I Used
+* GNOME
+* KDE Plasma
+* Budgie
+* LXDE
+* XFCE
+* LXQT
+* Openbox
+* AwesomeWM
+
+I'm currently using **Openbox**.
+
+## Browsers I Used
+* Blink
+  * Google Chrome (Chromium)
+  * Edge (Chromium)
+  * Opera (Chromium)
+  * Brave (Chromium)
+  * Maxthon (Chromium)
+  * Torch (Chromium)
+  * Vivaldi (Chromium)
+  * Yandex Browser (Chromium)
+  * Falkon (Qt WebEngine)
+* Gecko
+  * Firefox
+  * Tor
+  * Netscape Navigator 9
+  * Librewolf
+  * Flock
+* Webkit
+  * Safari
+  * GNOME Web(Epiphany)
+  * Konqueror
+  * qutebrowser
+* Goanna
+  * Pale Moon
+* KHTML
+  * Konqueror
+  * Celer Browser
+* Other
+  * IE (Trident)
+  * Edge (EdgeHTML)
+  * NetSurf
+
+I'm currently using **Mozilla Firefox**.
+
+## Contact
+
+* [Email](mailto:arda@artadosearch.com)
