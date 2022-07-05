@@ -62,7 +62,6 @@
     * OpenBSD
     
 * Other
-  * ToaruOS
   * MikeOS
 
 I'm currently using **Mabox Linux**, **Windows 10** and **Android**.<br/>
