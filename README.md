@@ -37,6 +37,9 @@
 * Linux
   * Debian
     * Debian
+     * MX Linux
+     * Ubuntu
+       * Pop_OS!
     * Pardus
     * Ubuntu
       * Pop_OS!
@@ -63,7 +66,7 @@
   * ReactOS
   * MikeOS
 
-I'm currently using **Mabox Linux**, **Windows 10** and **Android**.<br/>
+I'm currently using **MX Linux**, **Windows 10** and **Android**.<br/>
 
 ## Window Managers/Desktop Environments I Used
 * GNOME
