@@ -7,9 +7,6 @@
     <a href="https://github-readme-streak-stats.herokuapp.com">
       <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=ardatdev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=262626&stroke=616BBC00&sideLabels=BCBCBC&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="49%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardatdev&theme=apprentice&langs_count=6&hide_border=true&hide_title=true" />
-    </a>
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <img width="98%" alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=ardatdev&bg_color=262626&color=BCBCBC&line=8787AF&point=6C6C6C&area_color=5F5F87&area=true&hide_border=true" />
     </a>
