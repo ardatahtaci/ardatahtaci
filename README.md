@@ -37,9 +37,7 @@
 * Linux
   * Debian
     * Debian
-     * MX Linux
-     * Ubuntu
-       * Pop_OS!
+    * MX Linux
     * Pardus
     * Ubuntu
       * Pop_OS!
