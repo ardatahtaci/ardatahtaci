@@ -76,7 +76,7 @@ I'm currently using **MX Linux**, **Windows 10** and **Android**.<br/>
 * Openbox
 * AwesomeWM
 
-I'm currently using **Openbox**.
+I'm currently using **XFCE**.
 
 ## Browsers I Used
 * Blink
